@@ -1,6 +1,7 @@
 # email-signature
 
 ![replace body](assets/signature_example.png)
+
 To install this signature in the Mail App using iCloud Drive on OS X Big Sur:
 
 Open terminal and paste:
@@ -11,3 +12,5 @@ Then paste:
 
 This opens a TextEdit file. Here you simply remove everything below the metadata:
 ![replace body](assets/signature_replace.jpg)
+
+Save & Close. Open the Mail App and you should see your new signature.
