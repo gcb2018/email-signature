@@ -1,4 +1,4 @@
-# email-signature
+# Email Signature
 
 ![replace body](assets/signature_example.png)
 
