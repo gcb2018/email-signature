@@ -1,6 +1,6 @@
 # email-signature
 
-![replace body](assets/signature_example.jpg)
+![replace body](assets/signature_example.png)
 To install this signature in the Mail App using iCloud Drive on OS X Big Sur:
 
 Open terminal and paste:
